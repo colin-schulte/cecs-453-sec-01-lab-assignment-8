@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696400102473",
+    "project_id": "lab-assignment-8-603cf",
+    "storage_bucket": "lab-assignment-8-603cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696400102473:android:f3bf02fc22a921da4c2b98",
+        "android_client_info": {
+          "package_name": "com.example.lab_assignment_8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG1fboxx1ZcOlYSxMrV0uTRUgTKRDy5f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
